@@ -16,7 +16,7 @@
 - ⚡ Gosto de aprender novos conceitos, resolver problemas e criar coisas úteis!
 - 💬 Também gosto de música, astronomia, jogos retrô e viajar.
 
-#### Tools which I use / Ferramentas que utilizo:
+#### Tools which I use the most / Ferramentas que mais utilizo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="luis-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
