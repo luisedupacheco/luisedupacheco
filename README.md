@@ -27,7 +27,7 @@
   
 ##
 
-#### Contact links: / Links de contato:
+#### Contact links / Links de contato:
   
 <div> 
   <a href="https://api.whatsapp.com/send?phone=5548984206403" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-2BB35E?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
