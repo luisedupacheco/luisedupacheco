@@ -4,15 +4,15 @@
 
 ###### [EN]
 
-- 🌱 I study Game Design and Development at UNIASSELVI
-- 🔭 Currently developing Front-End web applications
+- 🌱 I'm majoring in Design and Development of Digital Games at UNIASSELVI
+- 🔭 Currently studying Front-End web development
 - ⚡ I like to learn new concepts, solve problems and create useful stuff!
 - 💬 I also like music, astronomy, retro games and to travel.
 
 ###### [PT-BR]
 
-- 🌱 Estudo Jogos Digitais na UNIASSELVI
-- 🔭 Atualmente desenvolvendo aplicações web Front-End
+- 🌱 Cursando Jogos Digitais na UNIASSELVI
+- 🔭 Atualmente estudando desenvolvimento web Front-End
 - ⚡ Gosto de aprender novos conceitos, resolver problemas e criar coisas úteis!
 - 💬 Também gosto de música, astronomia, jogos retrô e viajar.
 
