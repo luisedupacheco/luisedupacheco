@@ -4,13 +4,13 @@
 
 ###### [EN]
 
-- 🌱 I'm majoring in Design and Development of Digital Games at UNIASSELVI
+- 🌱 I have a degree in Design and Development of Digital Games from UNIASSELVI
 - 💡 I like to learn new concepts, solve problems and create useful stuff!
 - 💬 I also like music, astronomy, retro games, travelling and reading articles :)
 
 ###### [PT-BR]
 
-- 🌱 Cursando Jogos Digitais na UNIASSELVI
+- 🌱 Formado em Jogos Digitais pela UNIASSELVI
 - 💡 Gosto de aprender novos conceitos, resolver problemas e criar coisas úteis!
 - 💬 Também gosto de música, astronomia, jogos retrô, viajar e ler artigos :)
 
@@ -18,13 +18,16 @@
 
 ### Technologies | Tecnologias:
 
-#### ⚡ I have experience with | Tenho experiência com:
+#### ⚡ I've developed projects using the following technologies: | Já desenvolvi projetos utilizando as seguintes tecnologias:
 
 <div style="display: inline_block"><br>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+  <img alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
@@ -33,8 +36,6 @@
 <div style="display: inline_block"><br>
   <img alt="React"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 
 ##
