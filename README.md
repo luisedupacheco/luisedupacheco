@@ -34,6 +34,7 @@
 #### 🔭 Learning at the moment | Aprendendo no momento: 
 
 <div style="display: inline_block"><br>
+  <img alt="Node.JS"src="https://img.shields.io/badge/node.js-%23323330?style=for-the-badge&logo=node.js&logoColor=6DA55F">
   <img alt="React"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
