@@ -44,7 +44,6 @@
 ### Contact links | Links de contato:
   
 <div> 
-  <a href="https://api.whatsapp.com/send?phone=5548984206403" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-2BB35E?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/luisedupacheco?utm_medium=copy_link" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-B91253?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luisedupacheco@hotmail.com"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-D51007?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
